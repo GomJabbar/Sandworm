@@ -6,7 +6,7 @@ title: "Writing Samples"
 <p>Just a place to put some of my more coherent thoughts together. I like Dune, can't you tell?</p>
 <h1>Pieces:</h1>
 <ul class="posts">
-  {% for post in site.posts.sort {|p1, p2| p2.date <=> p1.date} %}
+  {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="/Sandworm{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>      
