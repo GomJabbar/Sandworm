@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Alienation narratives and culture"
+---
+
+On a lovely Tuesday afternoon, reading a rather compelling academic thesis on alienation in Japanese-Canadian literature, it occurred to me that there may be a cultural aspect to how different literary members of various ethnic groups process alienation or voicelessness.
+
+It seems to me literary representations of European alienation are fundamentally different from non-white representations of alienation, in terms of how alienation is defined. The seminal European alienation narrative, to me anyway, is Kafka’s The Metamorphosis, where the protagonist, Gregor Samsa, inexplicably finds himself reduced to a bug, estranged not only from his already othered family, but also from himself and his humanity. Consider the role of the family within this sort of narrative. They protect him at first, then take advantage of him, later attack him and then profit from his death. He is alienated not only from the larger world of humanity but also his family and community. The alienated person is besieged from all sides and removed from all illusion of safety, with even his family posing a mortal threat. When one seeks to understand this alienation, one realizes that the protagonist is unique but his problems may be scalable. In essence, we must look to move from the uniquely personal into the general. It is inductive. It is, in many ways, an easier problem to understand as the details of the unique experience anchor the reader in reality, which makes moving outwards considerably easier.
+
+I read The Metamorphosis as a Jewish book, seeing as it fits squarely within the canon of Jewish literature, which shares said inductive focus, but also as a white alienation narrative. I suspect Kafka would agree, given his discomfort with Jewishness. These characters are singular characters. Take the Immortal Bartfuss, for instance. Immortal though he isn’t. These two examples shouldn’t serve to say Jewish lit is necessarily white literature, only that it is the literature I personally have read the most of within the European canon and is the most emblematic of alienation in a European context. Sephardic literature comes, I’ve noticed, from a different place (Counter: the Brazilian Jewish writer Moacyr Scliar’s The Centaur so hmm). That said, within white alienation narratives, the most important thing is to understand the sufferer with the sufferer’s fellows given much less priority, even in a more community focussed narrative like Camus’ The Plague. These are individualist narratives. Understand me, I am unique, then you may understand us all.
+
+Non-white alienation narratives seem to have a different focus. Understand us all, then you will understand me, and finally see how I’m unique. It’s a deductive approach to alienation as the alienated cannot see themselves apart from the community. The tapestry of the family plays a much more significant role, particularly in Latin American literature, the community in First Nations literature. Is it perhaps because the communities are alienated as a whole and individuals are less inclined to seek further alienation? The burden of alienation is shared across a family or community with the author usually taking pains to describe interpersonal relationship within the family unit before moving it beyond. Everyone is alienated within the family but not necessarily from each other, only the outside world. The individual understands the value of co-opting the voices of others. Unlike Gregor Samsa who has no way of reaching across, non-white alienation narrators find strength in numbers. What affects the community at large trickles down to reach the individual. These narratives take place against a backdrop that affects society at large, not in relative isolation.
+
+Even when individuals react against the family in these narratives, the focus is different. Unique characters such as those within Achy Obejas’ “We came all the way from Cuba so you could dress like this?” still frame these narratives within the context of the community. Note the “we” in the title.
+
+In Joy Kagawa’s Obasan, a narrative about Japanese-Canadians and the deplorable conditions within which they existed until not too long ago, shamefully enough, there are these lines:
+
+There is a silence that cannot speak. There is a silence that will not speak. Beneath the grass the speaking dreams and beneath the dreams is a sensate sea. The speech that frees comes forth from that amniotic deep. To attend its voice, I can hear it say, is to embrace its absence. But I fail the task. The word is stone.
+
+She clarifies this thought with:
+
+We are the chips and sand, the fragments of fragments that fly like arrows from the heart of the rock. We are the silences that speak from stone. We are the despised rendered voiceless, stripped of car, radio, camera, and every means of communication.
+
+Unlike Kogawa’s characters, Kafka’s Samsa would never claim the “we” suffer as much as the “I” or vice-versa.
+
+ps: I didn’t actively consider GLBT fiction (despite the Obejas) when ruminating this afternoon so that’s something to think about.
