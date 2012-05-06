@@ -7,5 +7,4 @@ title: Hello world
 ================
 
 Hello world- my first **writing** piece
-
-{{ 'icon_download.png' | 'Sandworm/images' | img_tag }}
+<img src="/Sandworm/images/icon_download.png"></img>
