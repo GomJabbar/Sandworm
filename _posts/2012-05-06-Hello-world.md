@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello world
+title: "Hello world"
 ---
 
 Hello world- my first **writing** piece
