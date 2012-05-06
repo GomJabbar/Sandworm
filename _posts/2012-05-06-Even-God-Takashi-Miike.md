@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Hello world
+title: Even God is pointless: Interpreting the ending of Takashi Miike's Ichi the Killer
 ---
-
-{{ **Even God is pointless: Interpreting the ending of Takashi Miike's Ichi the Killer** }}
 
 I recently had the chance to see Takashi Miike's masterpiece, Ichi the Killer. It remains, to my mind, one of the defining horror/gore films of our time. Its comic book-like feel belies a supremely nihilist/essentially humanist philosophy. It might be hard to get to it and it's totally understandable if you don't care to find out. After all, by the time you get to the ending, you've already waded through buckets of blood, truly depraved torture, rape and may have had to take advantage of the barf bags that Miike was so kind as to provide during screenings of the movie.
 
