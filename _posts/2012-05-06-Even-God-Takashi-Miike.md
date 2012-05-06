@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hello world
+---
+
+{{ **Even God is pointless: Interpreting the ending of Takashi Miike's Ichi the Killer** }}
+
 I recently had the chance to see Takashi Miike's masterpiece, Ichi the Killer. It remains, to my mind, one of the defining horror/gore films of our time. Its comic book-like feel belies a supremely nihilist/essentially humanist philosophy. It might be hard to get to it and it's totally understandable if you don't care to find out. After all, by the time you get to the ending, you've already waded through buckets of blood, truly depraved torture, rape and may have had to take advantage of the barf bags that Miike was so kind as to provide during screenings of the movie.
 
 There is not a single black and white character in the movie. In fact, the only sympathetic character, the kind cop-turned-Yakuza bodyguard Taneko, driven mad by his powerlessness in the grand scheme of things, kicks to death an already raped woman. Even his son, Takeshi, the bullied boy, comes face to face with his dark side, kicking his father's killer, the eponymous Ichi, who is lying helpless on the floor, crying his eyes out, bleeding from a gunshot wound to the leg. All of this happens in the shadow of the battle between the 100% masochist, Kakihara, and the 100% sadist, Ichi. Both characters are larger than life, perfectly suited for their position in society. There is, however, a greater power at work, the Chinese pimp, Jijii, who is manipulating them both and driving them towards the ultimate showdown.
