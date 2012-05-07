@@ -5,6 +5,7 @@ title: "Stone Mirror"
 **THE STONE MIRROR**
 
 I came to this city from the garden countries of the far South where it had become untenable for a man such as myself to exist. After a long journey lasting several months, I arrived here in the post-life country of Tlon on the vessel “L’Espoir,” a merchant ship that had as its cargo a shipment of rare birds from Molucca. Exactly sixteen months ago to this day. I carried in my possession proof not of my identity but the proof of my purpose. The story I am about to tell you will detail the terrible events that followed my arrival in Sharm-Al-Khayaal. 
+
 Sharm-Al-Khayaal, or the Port of Consideration, occupies a five mile stretch along a narrow Tlonian peninsula that juts out into the Eastern Hind Ocean. From time immemorial, it has served as a port of call for sailors making their way from the continents of Europe and Africa to the rich hinterlands of Molucca. Since its inception, Sharm-Al-Khayaal has served as the seat of all Tlonian learning.  Sharm-Al-Khayaal is where Maimonides wrote his famous “Guide to the Post-Life.” Scholars from all over the world flock to Sharm-Al-Khayaal in the humid summer months to get away from the chatter of Rome and the tedium of Shiraz. Here, they come seeking a peculiar sort of knowledge, one pertaining primarily to matters of faith that are uniquely Ibadhi. What sort of faith must we possess when God is constantly remaking the universe at every instant yet his laws are eternal and cannot be disobeyed? That is the question animating all Ibadhi research, whether in life or in the post-life. 
 
 Some men, on the other hand, come to Sharm-Al-Khayaal seeking a final form of death which some reports say can be had in its vicinity, in the maelstroms of the Hind Ocean or within the vast starshot emptiness of the Rub-Al-Khali.  Sharm-Al-Khayaal was the port where the famous post-life philosopher Andre Neher was swallowed by the sea, never to be heard from again. 
@@ -19,6 +20,7 @@ The child, a dirty flaxen-haired imp of about ten or so, had been sitting on the
 “Where are your parents? What would they think if they knew you were staring like this?” I asked, angrily. My anger, however, had no bearing on the intensity of the child’s gaze, which only strengthened in hostility, such that I could not help but clutch my black shoulder bag to my front as if to swallow it within the folds of my dusty jacket. A great warrior in fear of a child? Surely not, but the story turns only stranger. 
 
 Nightfall came upon us two while we argued. The muezzin called the faithful to evening prayer. The Ibadhis, who made up most of the Tlonian populace, dispersed in their quiet manner towards the mosques that ringed the old Souq. Not the child, however, and it became apparent to me that he could not be of this nation, for Tlonian Ibadhis were renowned for being preternaturally pious. He did not possess the circular grey indentation the Tlonians acquire in life around the age of six or seven from pressing forehead to carpet five times a day in prayer. Furthermore, he was wearing jewelry, a simple gold bracelet on the left wrist, in the custom of the children of the East as well as some segments of society within the Garden States. Less trustworthy folk, they counted among their number most of the pickpockets and prostitutes of Tlon. Thus, I began to worry. 
+
 “Do you know what you’re carrying?”
 
 “What business is it of yours? Are you a thief? Well, I’ll have you know I’m good friends with the Chief of Police of Sharm-Al-Khayaal.”
@@ -93,6 +95,7 @@ Even though she did not say the word for _____, I knew exactly what she was refe
 My stomach growled and forced me to sit down. “Yes,” I said. “In a half hour.”
 
  I ran my fingers along the thick stone walls of my prison. I rested my cheek against the far wall, where a confluence of cool ocean breeze and cold stone could chill both sides of my face.
+
 “Oh, my life,” I sighed. The wall farthest from me in this position, that is to say, the wall to the left of the door, seemed to shimmer for just a second, as I spoke. Within it, I glimpsed a room within which I had lived, the carvings of birds I had made, and a strand of my wife’s hair. Was this vision a symptom of my hunger? It couldn’t be. I had survived many days at sea bereft of anything to assuage the needs of my body. This was something else, something momentous. It must have been the stone mirror she had mentioned. I resisted the urge to alert my companion to my discovery before the allotted time had passed. Hunger continued to assail me. I was too weak to stand. A puddle of bile snaked up my throat. I shuddered. 
 
 Once I was reasonably sure a half hour had passed, I reached out to the wall that had briefly shimmered, hoping to find a logical explanation for its behavior. To the best of my knowledge, walls were not given to shimmering, not in Tlon nor in the Garden States where I had lived previously. My hand met a thin film of what appeared to be ooze but on withdrawing it from the wall, I could detect no residue, no odor or taste, nothing to indicate the truth of what I had just felt. 
@@ -116,7 +119,9 @@ Pain dug its claws into my sides. “A fascinating story, to be sure, but I have n
 “How did you know my name?”
 
 There was a long pause before she answered. “I guessed, and in this universe, I happened to be correct. Believe me, I am not quite so lucky in other universes.”
+
 Long years at sea had convinced me of the futilities of such theories. Yet, I decided to humor her. “In other universes, you may have become the first woman to successfully exit the post-life.”
+
 She let loose a sound that was almost a sigh. “Oh, how I long for that universe to be,” she said. “It has been at least a decade and I confess I am no closer to figuring out the method one exits the post-life. One must assume it requires contemplation of the forbidden word as well as some method of atoning for one’s original sin.”
 
 I peered once again through the bars of my cell. I could hear the sounds of low voices speaking on a variety of subjects, most of which were obscure to me. Occasionally, a hand would reach out from one of the hexagonal cells and gesture frantically, though who they were gesturing to was never clear. Where were the guards? What manner of prison was this? “It is exceedingly strange to me how we are yet to see any guards,” I said. “What manner of institution is this, Miss Velazquez?”
@@ -222,6 +227,7 @@ I thought then of the child and what it had said in the moments before I blacked
 
 “It doesn’t seem to me, however, that it counts as a sin of any kind.”
 “I made sure to give her away to a loving family, an architect couple from Florida, who took good care of her. While I was alive, anyway. Other than that, I lived a fairly blameless existence. I provided for my parents when they got old, my sister when she got sick, completed all the tasks that a person is meant to complete to be remembered as truly “good.” I’ve racked my brains for years trying to come up with something more meaningfully evil but I’m yet to come up with anything. You’re lucky in that way, Harmon, because my regret is so general it has become meaningless.”
+
 “How do you mean?”
 
 “You seem to have such an impressive resume of sins. Surely, you can skim the pages until you find the right one. Test them all out on the stone mirror. Let it shimmer. Maybe you’ll be the lucky one.”
@@ -255,7 +261,9 @@ I recounted to her then the shimmering I had seen. “I saw within it a shimmer,” 
 “What was I doing?”
 
 “It only lasted a mere second, perhaps two, before it was gone, faded into nothingness. It was as if the wall were a pool of clear water and with my gaze, I had somehow unsettled it, caused it to ripple. Peering through the water, I could see clear to the bottom, where I caught a glimpse of a bustling metropolis clotted with tourists. Great fishes many feet in length swam easily through this city, shuffled through the same doors as the men and women. You were standing on the other side of a great promenade from me. We were walking, about to find each other for the first time.”
+
 My wife, how I had loved her, she who looked like a rumpled traveler at the end of a long journey, how I’d struggled to find her and how I’d lost her in death. I’d sworn my love to her for all time. 
+
 “Is that what you suppose true _____ is like?” Sara’s voice asked me. “A surreal afterlife where one is finally free of regret?”
 
 “It does sound a little absurd, doesn’t it?”
