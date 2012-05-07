@@ -2,8 +2,7 @@
 layout: default
 title: "Two Thoughts About Hospitals"
 ---
-
-Today, I was at St. Michael’s hospital in Newark, NJ, visiting Kevin’s grandma who’d just had knee surgery. His grandparents and family are just incredibly warm and loving people who treated me like one of their own when I was staying at his place over the summer while waiting for my passport. I got them a pair of silver Arabic candleholders from Oman. Of course, I’d have preferred to give it to them in better circumstances but I’m glad I got to see them today at least. It’s folks like them that make me love humanity so.
+I was at St. Michael’s hospital in Newark, NJ, visiting Kevin’s grandma who’d just had knee surgery. His grandparents and family are just incredibly warm and loving people who treated me like one of their own when I was staying at his place over the summer while waiting for my passport. I got them a pair of silver Arabic candleholders from Oman. Of course, I’d have preferred to give it to them in better circumstances but I’m glad I got to see them today at least. It’s folks like them that make me love humanity so.
 
 St. Michael’s is a labyrinth. The ground floor is floor 2 and getting off at floor 1 was a mistake. So I followed exit signs that led to alarmed fire doors. Couldn’t leave without setting off alarms so I wandered through the deserted bowels of the hospital for a time before finally finding my way out.
 
